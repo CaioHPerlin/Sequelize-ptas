@@ -1,0 +1,10 @@
+body{
+    font-size: 24px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: monospace;
+    background-color: rgb(73, 93, 126);
+}
